@@ -1,0 +1,9 @@
+﻿  Main.cpp
+C:\Users\Alfredow\source\repos\Gridmond\Main.cpp(81,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alfredow\source\repos\Gridmond\Main.cpp(83,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alfredow\source\repos\Gridmond\Main.cpp(84,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alfredow\source\repos\Gridmond\Main.cpp(97,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alfredow\source\repos\Gridmond\Main.cpp(97,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Gridmond.vcxproj -> C:\Users\Alfredow\source\repos\Gridmond\x64\Debug\Gridmond.exe
+  'pwsh.exe' não é reconhecido como um comando interno
+  ou externo, um programa operável ou um arquivo em lotes.

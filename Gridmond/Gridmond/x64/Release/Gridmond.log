@@ -1,0 +1,21 @@
+﻿  Main.cpp
+C:\Users\Alfredow\source\repos\Gridmond\Main.cpp(20,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alfredow\source\repos\Gridmond\Main.cpp(111,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alfredow\source\repos\Gridmond\Main.cpp(129,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alfredow\source\repos\Gridmond\Main.cpp(130,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alfredow\source\repos\Gridmond\Main.cpp(131,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alfredow\source\repos\Gridmond\Main.cpp(133,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alfredow\source\repos\Gridmond\Main.cpp(134,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alfredow\source\repos\Gridmond\Main.cpp(153,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alfredow\source\repos\Gridmond\Main.cpp(153,21): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alfredow\source\repos\Gridmond\Main.cpp(230,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Alfredow\source\repos\Gridmond\Main.cpp(230,18): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating code
+C:\Users\Alfredow\source\repos\Gridmond\Main.cpp(216): warning C4715: 'getCell': not all control paths return a value
+  6 of 31 functions (19.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Gridmond.vcxproj -> C:\Users\Alfredow\source\repos\Gridmond\x64\Release\Gridmond.exe
+  'pwsh.exe' não é reconhecido como um comando interno
+  ou externo, um programa operável ou um arquivo em lotes.

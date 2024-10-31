@@ -1,0 +1,3 @@
+C:\Users\Alfredow\source\repos\Gridmond\x64\Release\raylib.dll
+C:\Users\Alfredow\source\repos\Gridmond\x64\Release\glfw3.dll
+C:\Users\Alfredow\source\repos\Gridmond\Gridmond\x64\Release\Gridmond.vcxproj.Up2Date
